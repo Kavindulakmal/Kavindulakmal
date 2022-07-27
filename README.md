@@ -7,7 +7,7 @@
 </a>
 
 <a href="mailto:avakavindu@gmail.com">
-   <img src="[https://img.shields.io/badge/gmail-gmail-red](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=hotmail&logoColor=Blue)" />
+   <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=hotmail&logoColor=Blue" />
 </a>
 
 
