@@ -6,8 +6,8 @@
    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="avakavindu@gmail.com">
-   <img src="https://img.shields.io/badge/gmail-gmail-red" />
+<a href="mailto:avakavindu@gmail.com">
+   <img src="[https://img.shields.io/badge/gmail-gmail-red](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=hotmail&logoColor=Blue)" />
 </a>
 
 
