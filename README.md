@@ -10,4 +10,10 @@
    <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=hotmail&logoColor=Blue" />
 </a>
 
+![Kavindu's github stats](https://github-readme-stats.vercel.app/api?username=Kavindulakmal&count_private=true&show_icons=true&theme=synthwave&hide=contribs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavindulakmal&layout=compact&&exclude_repo=MicroServices-SpringBoot,PAF-2022,
+Python-Case-Study,ProgrammingAssignment2,IP-module-Online-Test-questions,restaurant-management-system-using-java,Hotel-Reservation-System-For-Special-Events-HTML-CSS-and-JS )
+
+
 
