@@ -35,7 +35,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kavindulakmal&theme=dark" alt="Kavindulakmal" /></p>
 
-(https://github-readme-stats.vercel.app/api/top-langs/?Kavindulakmal={Kavindulakmal}&theme=blue-green)
+<ahttps://github-readme-stats.vercel.app/api/top-langs/?Kavindulakmal={Kavindulakmal}&theme=blue-green></a>
 
 
 
