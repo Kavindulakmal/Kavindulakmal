@@ -8,6 +8,12 @@
   <a href="https://www.instagram.com/kavindulakmal37/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
+  
+  <a href="https://twitter.com/KLakaml">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  
+  
 
 ## Connect with me:
 
