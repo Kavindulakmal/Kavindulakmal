@@ -13,7 +13,7 @@
 ![Kavindu's github status](https://github-readme-stats.vercel.app/api?username=Kavindulakmal&count_private=true&show_icons=true&theme=synthwave&hide=contribs)
 
 ## Skills:
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,react,androidstudio,bootstrap,c,cpp&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,react,androidstudio,bootstrap,c,cpp,css,django,docker,fastapi,figma,firebase,flask,git,hibernate,html,java,js,jquerylinux,maven,mongodb,mysql,nodejs&perline=8)](https://skillicons.dev)
 
 
 
