@@ -12,8 +12,8 @@
 
 ![Kavindu's github status](https://github-readme-stats.vercel.app/api?username=Kavindulakmal&count_private=true&show_icons=true&theme=synthwave&hide=contribs)
 
-
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+## Skills:
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,react,androidstudio,bootstrap,c,cpp&perline=3)](https://skillicons.dev)
 
 
 
