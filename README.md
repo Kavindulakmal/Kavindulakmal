@@ -17,6 +17,10 @@
     <img src="https://skillicons.dev/icons?i=stackoverflow" />
   </a>
   
+  <a href="http://gitlab.sliit.lk/KavinduLakmal">
+    <img src="https://skillicons.dev/icons?i=gitlab" />
+  </a>
+  
   
 
 ## Connect with me:
