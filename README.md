@@ -35,6 +35,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kavindulakmal&theme=dark" alt="Kavindulakmal" /></p>
 
+## Most Used Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavindulakmal&layout=compact)](https://github.com/Kavindulakmal/github-readme-stats)
 
 
