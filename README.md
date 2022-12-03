@@ -31,7 +31,9 @@
 
 ![Kavindu's github status](https://github-readme-stats.vercel.app/api?username=Kavindulakmal&count_private=true&show_icons=true&theme=synthwave&hide=contribs)
 
-![Kavindu's github status](https://github-readme-stats.vercel.app/api?Kavindulakmal={Kavindulakmal}&theme=blue-green)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kavindulakmal&show_icons=true&theme=dark&locale=en" alt="Kavindulakmal" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kavindulakmal&theme=dark" alt="Kavindulakmal" /></p>
 
 
 
