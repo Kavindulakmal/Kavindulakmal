@@ -12,6 +12,8 @@
 
 ![Kavindu's github status](https://github-readme-stats.vercel.app/api?username=Kavindulakmal&count_private=true&show_icons=true&theme=synthwave&hide=contribs)
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=Kavindulakmal&theme=blue-green
+
 
 
 
