@@ -1,11 +1,9 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I AM KAVINDU™ LAKMAL 
 
 ## Connect with me:
-<p align="center">
   <a href="https://www.linkedin.com/in/kavindu-lakmal-wickramasinghe/https://www.linkedin.com/in/kavindu-lakmal-wickramasinghe/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-</p>
 
 ## Connect with me:
 
