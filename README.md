@@ -13,6 +13,10 @@
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
   
+  <a href="https://stackoverflow.com/users/19791764/kavindu-lakmal">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" />
+  </a>
+  
   
 
 ## Connect with me:
