@@ -29,7 +29,7 @@
 ## IDE's:
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,eclipse,idea,visualstudio,vscode&theme=light)](https://skillicons.dev)
 
-##Github Status:
+## Github Status:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kavindulakmal&show_icons=true&theme=dark&locale=en" alt="Kavindulakmal" /></p>
 
