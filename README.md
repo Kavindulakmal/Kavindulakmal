@@ -4,6 +4,10 @@
   <a href="https://www.linkedin.com/in/kavindu-lakmal-wickramasinghe/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  
+  <a href="https://www.instagram.com/kavindulakmal37/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 
 ## Connect with me:
 
