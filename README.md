@@ -32,7 +32,7 @@
 ## Github Status:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kavindulakmal&show_icons=true&theme=dark&locale=en" alt="Kavindulakmal" /></p>
-![Kavindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavindulakmal&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavindulakmal&show_icons=true&theme=radical)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kavindulakmal&theme=dark" alt="Kavindulakmal" /></p>
 
