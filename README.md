@@ -23,7 +23,7 @@
   
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,react,angular,bootstrap,c,cpp,css,django,docker,express,fastapi,figma,firebase,flask,git,hibernate,html,java,js,jquery,kubernetes,linux,maven,mongodb,mysql,nodejs,octave,php,py,r,spring,sqlite,selenium,&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,react,angular,bootstrap,c,cpp,css,django,docker,express,fastapi,figma,firebase,flask,git,go,hibernate,html,java,js,jquery,kubernetes,linux,maven,mongodb,mysql,nodejs,octave,php,py,r,spring,sqlite,selenium,&perline=15)](https://skillicons.dev)
 
 
 ## IDE's:
