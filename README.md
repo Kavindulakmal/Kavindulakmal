@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" width="100"/>
+</p>
+
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I AM KAVINDU™ LAKMAL
 ## 🌱 I’m currently learning Go.
 
