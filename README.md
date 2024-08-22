@@ -32,7 +32,7 @@
 
 
 ## IDE's:
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,eclipse,idea,replit,visualstudio,vscode&theme=light,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,eclipse,idea,replit,pycharm,visualstudio,vscode&theme=light)](https://skillicons.dev)
 
 ## Github Status:
 
