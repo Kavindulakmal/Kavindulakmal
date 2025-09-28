@@ -14,9 +14,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   
-  <a href="https://www.instagram.com/kavindulakmal37/" target="blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+  
   
   <a href="https://twitter.com/KLakaml" target="blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
