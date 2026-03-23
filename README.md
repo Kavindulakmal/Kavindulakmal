@@ -109,7 +109,7 @@ func main() {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kavindulakmal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kavindulakmal&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6" />
 </p>
 
 ---
