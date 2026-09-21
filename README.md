@@ -76,7 +76,7 @@ func main() {
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,react,angular,bootstrap,c,cpp,css,django,docker,dynamodb,express,fastapi,figma,firebase,flask,git,github,go,hibernate,html,java,js,jquery,kubernetes,linux,maven,mongodb,mysql,nodejs,octave,php,postman,py,r,spring,sqlite,selenium,terraform&perline=13" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,react,angular,bootstrap,css,django,docker,dynamodb,express,fastapi,figma,firebase,flask,git,github,go,hibernate,html,java,js,jquery,kubernetes,linux,maven,mongodb,mysql,nodejs,octave,php,postman,py,r,spring,sqlite,selenium,terraform&perline=13" />
 </p>
 
 ---
