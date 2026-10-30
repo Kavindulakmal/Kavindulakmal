@@ -13,10 +13,18 @@
     <img src="https://images.credly.com/images/aec70b1a-2cd7-4c31-a64e-f4ee88717188/OCI2024FNDCFA_cached_image_20250518-26-tfcnm3.png" width="120" />
   </a>
 
-  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=021787EB06E024AA839BF75B188AF4465410C4A0FCB12EA0C30ECE6A99343806" target="_blank" rel="noopener noreferrer">
-    <img src="<img width="552" height="276" alt="OCI26CAA" src="https://github.com/user-attachments/assets/c3f5a4ef-a9ab-41ee-b2d0-19bf3bae4ebd" />
-"/>
-  </a>
+  
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=021787EB06E024AA839BF75B188AF4465410C4A0FCB12EA0C30ECE6A99343806"
+   target="_blank"
+   rel="noopener noreferrer">
+    <img
+        width="552"
+        height="276"
+        alt="Oracle Cloud Infrastructure 2026 Certified Associate"
+        src="https://github.com/user-attachments/assets/c3f5a4ef-a9ab-41ee-b2d0-19bf3bae4ebd"
+    />
+</a>
+
 </p>
 
 <!-- Animated Typing Header -->
