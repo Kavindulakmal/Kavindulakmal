@@ -19,7 +19,7 @@
    rel="noopener noreferrer">
     <img
         width="120"
-        height="120"
+        height="276"
         alt="Oracle Cloud Infrastructure 2026 Certified Associate"
         src="https://github.com/user-attachments/assets/c3f5a4ef-a9ab-41ee-b2d0-19bf3bae4ebd"
     />
