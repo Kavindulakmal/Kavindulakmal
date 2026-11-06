@@ -13,17 +13,10 @@
     <img src="https://images.credly.com/images/aec70b1a-2cd7-4c31-a64e-f4ee88717188/OCI2024FNDCFA_cached_image_20250518-26-tfcnm3.png" width="120" />
   </a>
 
-  
- <p align="center">
-  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=021787EB06E024AA839BF75B188AF4465410C4A0FCB12EA0C30ECE6A99343806"
-     target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://github.com/user-attachments/assets/16cfa6d6-96d3-43ca-8656-954269ba77ca"
-      width="120"
-      alt="OCI 2026 Certified Associate"
-    />
+  &nbsp;&nbsp;
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=021787EB06E024AA839BF75B188AF4465410C4A0FCB12EA0C30ECE6A99343806" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/16cfa6d6-96d3-43ca-8656-954269ba77ca" width="120" alt="OCI 2026 Certified Associate" />
   </a>
-</p>
 
 </p>
 
