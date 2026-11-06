@@ -14,6 +14,7 @@
   </a>
 
   
+ <p align="center">
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=021787EB06E024AA839BF75B188AF4465410C4A0FCB12EA0C30ECE6A99343806"
      target="_blank" rel="noopener noreferrer">
     <img
@@ -22,6 +23,7 @@
       alt="OCI 2026 Certified Associate"
     />
   </a>
+</p>
 
 </p>
 
